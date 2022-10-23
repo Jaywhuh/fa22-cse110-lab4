@@ -1,0 +1,2 @@
+1. It was taking in num1 and num2 as a string, not a number. So the result just became a concatenation of strings "1" and "2", which became "12"
+2. I used parseInt() function to change the value from string to a number. 
